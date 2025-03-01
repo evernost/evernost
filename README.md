@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @evernost
-- 👀 I’m interested in analog/digital electronics, synthesizers, computer science, art, linguistics
-- 🌱 I’m currently working on analog synthesizers
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in analog/digital electronics, mathematics, computer science, music, art, linguistics and any linear combination of all that
+- 🌱 I’m currently working on **analog synthesizers**
 - 📫 How to reach me: nitrogenium@outlook.fr
 
 <!---
