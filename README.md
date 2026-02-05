@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evernost
 - 👀 I’m interested in analog/digital electronics, mathematics, computer science, music, art, linguistics and any linear combination of all that
-- 🌱 I’m currently working on **analog synthesizers**
+- 🌱 I’m currently working on **Analog Synthesizers** (machines that make Bloop Bloop, Chirps and other funny sounds)
 - 📫 How to reach me: nitrogenium@outlook.fr
 
 <!---
